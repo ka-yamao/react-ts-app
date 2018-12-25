@@ -1,0 +1,11 @@
+.root {
+  border: 1px solid red;
+  background-color: gray;
+}
+.content {
+  font-size: large;
+  color: white;
+}
+.description {
+  color: red;
+}
