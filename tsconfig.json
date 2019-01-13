@@ -28,8 +28,6 @@
     "jest",
     "src/setupTests.ts",
     "config",
-    "jest.config.js",
-    "src/**/__tests__/**/*.ts?(x)",
     "src/**/?(*.)(spec|test).ts?(x)",
     "storybook-static"
   ]
